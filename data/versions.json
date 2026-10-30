@@ -1,0 +1,19 @@
+{
+ "country": "AR-V",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Constitución",
+   "title": "Constitución de la Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+   "url": "https://www.tierradelfuego.gob.ar/constituciones/",
+   "versions": [
+    {
+     "from": "1991-05-29",
+     "units": 212,
+     "source_url": "https://www.tierradelfuego.gob.ar/wp-content/uploads/2025/06/const_tdf.pdf",
+     "sha256": "ede4b33789fd119f8927d5e51383b2d01ef5bcd7f81901717cefcec0b387bcaa"
+    }
+   ]
+  }
+ ]
+}

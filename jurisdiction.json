@@ -1,0 +1,11 @@
+{
+  "path": "ar-v",
+  "code": "AR-V",
+  "name": "Tierra del Fuego",
+  "level": "province",
+  "parent": "ar",
+  "repo": "https://github.com/lexifina/argentina-tierra-del-fuego-law",
+  "build": "built: constitution, codes and laws (1 norms, 1 versions) from https://www.tierradelfuego.gob.ar/constituciones/",
+  "language": "es",
+  "sources": 1
+}
